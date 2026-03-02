@@ -1,2 +1,2 @@
-# definecoffee.github.io
+# defineCoffee.github.io
 My portfolio.
